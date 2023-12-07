@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.navbar-principal {
+    /* background-color: #13293D; */
+}
+
+.active {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.nav-link {
+    color: white;
+}
+
+.card-facebook {
+    background: url('../images/facebook-card-menor.jpeg') no-repeat center;
+
+}
+
+.card-instagram {
+    background: url('../images/instagram-card-menor.png') no-repeat center;
+}
+
+.card-twitter {
+    background: url('../images/twitter-card-menor.png') no-repeat center;
+}
+
+.footer-contato {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.header-principal {
+    background-color: #13293D;
+}
